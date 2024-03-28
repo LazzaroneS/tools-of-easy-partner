@@ -26,10 +26,6 @@ draft = false
 
 - [民生首刷版](https://credit.yhbyf.com/userInformation?code=DEFBANK300XPJP&referKey=Y01247240&creditId=262&channelId=2&t=1&name=民生首刷版)
 
-- [民生首刷版](https://credit.yhbyf.com/userInformation?code=DEFBANK300XPJP&referKey=Y01247240&creditId=262&channelId=2&t=1&name=民生首刷版)
-
-- [平安首刷版](https://credit.yhbyf.com/userInformation?code=DEFBANK300DWDJ&referKey=Y01247240&creditId=284&channelId=2&t=0&name=平安首刷版)
-
 - [招商银行双绑版](https://credit.yhbyf.com/userInformation?code=DEFBANK300WYV7&referKey=Y01247240&creditId=245&channelId=2&t=0&name=招商银行双绑版)
 
 - [光大高端卡首刷版](https://credit.yhbyf.com/userInformation?code=DEFBANK300UR5Z&referKey=Y01247240&creditId=263&channelId=2&t=0&name=光大高端卡首刷版)

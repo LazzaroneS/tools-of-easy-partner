@@ -1,8 +1,7 @@
 +++
-title = '信用卡审批额度查询'
+title = '信用卡下卡额度查询'
 date = 2024-03-28T17:47:52+08:00
-draft = true
-
+draft = false
 +++
 
 ### 首刷版
@@ -19,7 +18,7 @@ draft = true
 
 - [华夏瑞幸联名限定版](https://credit.yhbyf.com/userInformation?code=DEFBANK30083HT&referKey=Y01247240&creditId=282&channelId=2&t=0&name=华夏瑞幸联名限定版)
 
-- [华夏](https://credit.yhbyf.com/userInformation?code=DEFBANK300FJIG&referKey=Y01247240&creditId=256&channelId=2&t=0&name=华夏)API高批核首刷版
+- [华夏API高批核首刷版](https://credit.yhbyf.com/userInformation?code=DEFBANK300FJIG&referKey=Y01247240&creditId=256&channelId=2&t=0&name=华夏API高批核首刷版)
 
 - [华夏春季易下卡首刷版](https://credit.yhbyf.com/userInformation?code=DEFBANK3009PZ5&referKey=Y01247240&creditId=268&channelId=2&t=0&name=华夏春季易下卡首刷版)
 

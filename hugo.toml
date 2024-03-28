@@ -1,0 +1,4 @@
+baseURL = 'https://work-tools.atank.org/'
+languageCode = 'en-us'
+title = '易伙伴人阿坦的展业工具箱'
+theme = 'mini'

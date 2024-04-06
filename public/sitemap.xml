@@ -2,17 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>https://work-tools.atank.org/posts/</loc>
+    <lastmod>2024-04-06T22:23:34+08:00</lastmod>
+  </url><url>
+    <loc>https://work-tools.atank.org/</loc>
+    <lastmod>2024-04-06T22:23:34+08:00</lastmod>
+  </url><url>
+    <loc>https://work-tools.atank.org/posts/loan/</loc>
+    <lastmod>2024-04-06T22:23:34+08:00</lastmod>
+  </url><url>
+    <loc>https://work-tools.atank.org/posts/credit-card-apply/</loc>
     <lastmod>2024-03-28T17:47:52+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/credit-card-apply/</loc>
-    <lastmod>2024-03-28T17:47:52+08:00</lastmod>
+    <loc>https://work-tools.atank.org/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2024-03-28T17:47:52+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://work-tools.atank.org/tags/</loc>
   </url>
 </urlset>

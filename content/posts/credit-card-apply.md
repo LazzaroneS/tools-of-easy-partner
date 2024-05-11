@@ -16,15 +16,17 @@ draft = false
 
 - [华夏银联无界卡](https://credit.yhbyf.com/userInformation?code=DEFBANK300LGW9&referKey=Y01247240&creditId=281&channelId=2&t=0&name=华夏银联无界卡)
 
-- [华夏瑞幸联名限定版](https://credit.yhbyf.com/userInformation?code=DEFBANK30083HT&referKey=Y01247240&creditId=282&channelId=2&t=0&name=华夏瑞幸联名限定版)
+- [华夏瑞幸专享首刷版](https://credit.yhbyf.com/userInformation?code=DEFBANK300AFQB&referKey=Y01247240&creditId=299&channelId=2&t=0&name=%E5%8D%8E%E5%A4%8F%E7%91%9E%E5%B9%B8%E4%B8%93%E4%BA%AB%E9%A6%96%E5%88%B7%E7%89%88)
 
 - [华夏API高批核首刷版](https://credit.yhbyf.com/userInformation?code=DEFBANK300FJIG&referKey=Y01247240&creditId=256&channelId=2&t=0&name=华夏API高批核首刷版)
 
-- [华夏春季易下卡首刷版](https://credit.yhbyf.com/userInformation?code=DEFBANK3009PZ5&referKey=Y01247240&creditId=268&channelId=2&t=0&name=华夏春季易下卡首刷版)
+- [华夏全卡首刷版](https://credit.yhbyf.com/userInformation?code=DEFBANK300LGW9&referKey=Y01247240&creditId=281&channelId=2&t=0&name=%E5%8D%8E%E5%A4%8F%E5%85%A8%E5%8D%A1%E9%A6%96%E5%88%B7%E7%89%88)
 
 - [民生广西全卡首刷版](https://credit.yhbyf.com/userInformation?code=DEFBANK3005C47&referKey=Y01247240&creditId=286&channelId=2&t=0&name=民生广西全卡首刷版)
 
 - [民生首刷版](https://credit.yhbyf.com/userInformation?code=DEFBANK300XPJP&referKey=Y01247240&creditId=262&channelId=2&t=1&name=民生首刷版)
+
+- [民生吉祥首刷版](https://credit.yhbyf.com/userInformation?code=DEFBANK300K9DD&referKey=Y01247240&creditId=309&channelId=2&t=0&name=%E6%B0%91%E7%94%9F%E5%90%89%E7%A5%A5%E9%A6%96%E5%88%B7%E7%89%88)
 
 - [招商银行双绑版](https://credit.yhbyf.com/userInformation?code=DEFBANK300WYV7&referKey=Y01247240&creditId=245&channelId=2&t=0&name=招商银行双绑版)
 
@@ -42,6 +44,10 @@ draft = false
 
 - [民生激活版](https://credit.yhbyf.com/userInformation?code=DEFBANK200209W&referKey=Y01247240&creditId=253&channelId=2&t=1&name=民生激活版)
 
+- [民生吉祥激活版](https://credit.yhbyf.com/userInformation?code=DEFBANK200K695&referKey=Y01247240&creditId=308&channelId=2&t=0&name=%E6%B0%91%E7%94%9F%E5%90%89%E7%A5%A5%E6%BF%80%E6%B4%BB%E7%89%88)
+
+- [平安宠物悦享激活版](https://credit.yhbyf.com/userInformation?code=DEFBANK200MXV0&referKey=Y01247240&creditId=266&channelId=2&t=1&name=%E5%B9%B3%E5%AE%89%E5%AE%A0%E7%89%A9%E6%82%A6%E4%BA%AB%E6%BF%80%E6%B4%BB%E7%89%88)
+
 - [平安京东激活版](https://credit.yhbyf.com/userInformation?code=DEFBANK300C6H6&referKey=Y01247240&creditId=217&channelId=2&t=1&name=平安京东激活版)
 
 - [广发全卡激活版](https://credit.yhbyf.com/userInformation?code=DEFBANK200TVD3&referKey=Y01247240&creditId=176&channelId=2&t=0&name=广发全卡激活版)
@@ -52,6 +58,8 @@ draft = false
 
 - [广发京东购物乐享卡](https://credit.yhbyf.com/userInformation?code=DEFBANK200V8NZ&referKey=Y01247240&creditId=285&channelId=2&t=0&name=广发京东购物乐享卡)
 
+- [浦发易下卡激活版](https://credit.yhbyf.com/userInformation?code=DEFBANK8005VU5&referKey=Y01247240&creditId=283&channelId=2&t=0&name=%E6%B5%A6%E5%8F%91%E6%98%93%E4%B8%8B%E5%8D%A1%E6%BF%80%E6%B4%BB%E7%89%88)
+
 - [招商京东激活版](https://credit.yhbyf.com/userInformation?code=DEFBANK200R5SC&referKey=Y01247240&creditId=181&channelId=2&t=0&name=招商京东激活版)
 
 - [中信银行激活版](https://credit.yhbyf.com/userInformation?code=DEFBANK200ZOQC&referKey=Y01247240&creditId=239&channelId=2&t=0&name=中信银行激活版)
@@ -59,6 +67,8 @@ draft = false
 - [中信高批核激活版](https://credit.yhbyf.com/userInformation?code=DEFBANK200X874&referKey=Y01247240&creditId=270&channelId=2&t=0&name=中信高批核激活版)
 
 - [中信京东激活版](https://credit.yhbyf.com/userInformation?code=DEFBANK20045GX&referKey=Y01247240&creditId=215&channelId=2&t=0&name=中信京东激活版)
+
+- [中信白户易下卡激活版](https://credit.yhbyf.com/userInformation?code=DEFBANK300XJTH&referKey=Y01247240&creditId=293&channelId=2&t=0&name=%E4%B8%AD%E4%BF%A1%E7%99%BD%E6%88%B7%E6%98%93%E4%B8%8B%E5%8D%A1%E6%BF%80%E6%B4%BB%E7%89%88)
 
 - [建设激活版](https://credit.yhbyf.com/userInformation?code=DEFBANK200U702&referKey=Y01247240&creditId=272&channelId=2&t=0&name=建设激活版)
 

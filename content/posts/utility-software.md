@@ -5,4 +5,4 @@ draft = false
 
 +++
 
-远程桌面工具：[rustdesk](/files/rustdesk-1.2.3-2-x86_64.exe)
+远程桌面：[rustdesk](/files/rustdesk-1.2.3-2-x86_64.exe)
